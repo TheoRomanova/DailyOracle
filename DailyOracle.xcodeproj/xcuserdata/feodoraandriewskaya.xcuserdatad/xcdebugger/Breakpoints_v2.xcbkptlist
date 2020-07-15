@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6B7E165B-589F-4FDB-911F-2B452F37BDAB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DailyOracle/Controllers/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - 87200ca709f8040c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.imageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - 2321ebf460d65800"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.imageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - 9834455856ac9f33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - 4639c4ebf236ef7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.imageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - d4d4e575c86d9ad1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DailyOracle.DetailViewController"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "FC26A632-16D5-48D1-9F15-AFDDFA5BC84D - 7c62baecdeb1d8f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DailyOracle.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DailyOracle.DetailViewController&gt;"
+                  moduleName = "DailyOracle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/feodoraandriewskaya/Desktop/myWork/DailyOracle/DailyOracle/Controllers/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "405">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
